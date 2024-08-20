@@ -33,8 +33,6 @@ Before we start our actual software, we will start the trading workstation and l
 
 Now we can start our software. The reader should also be able to do this thanks to all the information we have given so far. The following figure represents the welcome screen and means that the program is ready.
 
-![2](https://user-images.githubusercontent.com/48348991/111172905-e48a3a80-85ae-11eb-8df0-f87be834474e.PNG)
-
 Clicking on the "HOME" button takes us to the home page of this software. Here we see the list of steps that are necessary for start-up and monitoring, as well as some basic data that will be useful for monitoring the evolution of the algorithm once it is running. The following figure shows the home screen we are talking about.
 
 ![2A](https://user-images.githubusercontent.com/48348991/111172939-ea801b80-85ae-11eb-87dc-5f5db496ac64.PNG)
